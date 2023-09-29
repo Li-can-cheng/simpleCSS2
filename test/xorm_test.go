@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 	_ "github.com/go-sql-driver/mysql"
-	"simpleCSS2/models"
+	"simpleCSS2/core/models"
 	"testing"
 	"xorm.io/xorm"
 )
